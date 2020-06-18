@@ -11,6 +11,18 @@
   "hexo": {
     "version": "4.2.1"
   },
+  "yuqueConfig": {
+    "postPath": "source/_posts/yuque",
+    "cachePath": "yuque.json",
+    "mdNameFormat": "title",
+    "adapter": "hexo",
+    "concurrency": 5,
+    "baseUrl": "https://www.yuque.com/api/v2",
+    "login": "codermagefox",
+    "repo": "blog",
+    "onlyPublished": true,
+    "onlyPublic": true
+  },
   "dependencies": {
     "bulma-stylus": "^0.8.0",
     "hexo": "^4.2.1",
