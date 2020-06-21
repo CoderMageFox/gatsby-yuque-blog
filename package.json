@@ -7,7 +7,7 @@
     "clean": "hexo clean",
     "deploy": "hexo deploy",
     "server": "hexo server",
-    "yuque": "YUQUE_TOKEN=OjZynDm8NA6NYtelmdMfkZjlR9XgLwSKPEA0FfDF yuque-hexo sync"
+    "yuque": "YUQUE_TOKEN=OjZynDm8NA6NYtelmdMfkZjlR9XgLwSKPEA0FfDF yuque-hexo sync && hexo server"
   },
   "hexo": {
     "version": "4.2.1"
